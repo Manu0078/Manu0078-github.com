@@ -10,8 +10,8 @@
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
-        <p>Web Developer</p>
+        <h1>Manu Shyam</h1>
+        <p>Data Analyst</p>
     </header>
 
     <section id="projects">
