@@ -2,22 +2,16 @@
 
 #### Technical Skills: Python, SQL, Excel, Tableau, R, Power BI
 
-## Education
--								       		
-- Data Analytics | Coursera (_December 2023_)	 			        		
-- Diploma In Mechanical Engineering | GOVT Polytechnic College, Adoor (_May 2021_)
+## Education							       		
+- Data Analytics | Coursera (_December 2023_)
+- Diploma In QA & QC | Techshore Institute, Kochi (_May 2022_) 			        		
+- Diploma In Mechanical Engineering | GOVT Polytechnic College, Adoor (_April 2021_)
 
 ## Work Experience
-**Data Sc @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Supervisor @ BPCL Kochi Refinery (_June 2022 - December 2022_)**
+- Calculated and corrected missing step in Construction and Maintenence of boilers which impacted over 60% more time saved of the project.
+- Controlled sites and labourers to perform 50% more efficent than usual
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based
+Completed several internship projects.
